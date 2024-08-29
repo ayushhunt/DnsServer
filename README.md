@@ -20,7 +20,7 @@ To run the DNS server:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/repo-name.git
+git clone https://github.com/ayushhunt/DnsServer.git
 
 # Navigate to the project directory
 cd repo-name
